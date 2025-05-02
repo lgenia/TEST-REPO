@@ -1,0 +1,21 @@
+задание 1
+
+span.large {
+    font-size: 50px;
+}
+span.medium {
+    font-size: 40px;
+}
+span.small {
+    font-size: 10px;
+}
+p.bold {
+    font-weight: bold;
+}
+p.bold-italic {
+    font-weight: bold;
+    font-style: italic;
+}
+p.italic {
+    font-style: italic;
+}
